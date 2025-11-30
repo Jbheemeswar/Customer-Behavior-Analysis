@@ -1,6 +1,4 @@
 📊 Consumer Shopping Behavior – Data Analytics Project
-🟢 Overview
-
 This project analyzes consumer shopping behavior to uncover trends that can help improve sales, customer satisfaction, and retention.
 The workflow includes loading data in Python, performing EDA, cleaning data, running SQL queries, building a Power BI dashboard, and generating a final report & presentation.
 
