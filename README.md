@@ -107,10 +107,11 @@ Power BI Desktop
 
 Gamma account (web)
 
-Steps
-# Clone repository
-git clone https://github.com/Jbheemeswar/Shopping-Behavior-Analysis.git
-cd Shopping-Behavior-Analysis
+# Clone Repository
+git clone https://github.com/Jbheemeswar/Customer-Behavior-Analysis.git
+
+# Move into Project Folder
+cd Customer-Behavior-Analysis
 
 Run Python notebooks inside /python/
 
